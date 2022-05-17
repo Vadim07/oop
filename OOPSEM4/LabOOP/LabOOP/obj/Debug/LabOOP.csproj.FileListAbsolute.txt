@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\obj\Debug\LabOOP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\obj\Debug\LabOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\obj\Debug\LabOOP.Form1.resources
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\obj\Debug\LabOOP.Properties.Resources.resources
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\obj\Debug\LabOOP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\obj\Debug\LabOOP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\bin\Debug\LabOOP.exe.config
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\bin\Debug\LabOOP.exe
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\bin\Debug\LabOOP.pdb
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\obj\Debug\LabOOP.exe
+C:\Users\User\Desktop\Новая папка\LabOOP\LabOOP\obj\Debug\LabOOP.pdb
